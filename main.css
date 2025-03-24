@@ -1,0 +1,26 @@
+/* ! Global CSS */
+@import url(base.css);
+
+/* !layout */
+@import url(layout/header.css);
+@import url(layout/footer.css);
+
+/* !components */
+@import url(components/modal-search.css);
+@import url(components/slider.css);
+@import url(components/category-item.css);
+@import url(components/product-item.css);
+@import url(components/blog-item.css);
+@import url(components/single-product/breadcrumb.css);
+@import url(components/single-product/product-gallery.css);
+@import url(components/single-product/product-info.css);
+@import url(components/single-product/products-tabs.css);
+@import url(components/reviews.css);
+
+/* !pages */
+@import url(pages/home.css);
+@import url(pages/iletişim.css);
+@import url(pages/hesap.css);
+@import url(pages/ödeme.css);
+@import url(pages/hakkımızda.css);
+@import url(pages/single-products.css);
